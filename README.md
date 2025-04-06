@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
-- ⚡ Fun fact:  **I'm not only passionate about Data Science but also Software Engineering and different technology paths. The key is that those things fulfill my passion for learning new things every day!**
+- ⚡ Fun fact:  **I'm not only passionate about Data Science but also Software Engineering and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
