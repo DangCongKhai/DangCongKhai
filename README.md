@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [here](https://dangcongkhai.github.io/my_website/)
 
-- 🎯 My goal is **to applications with AI that bring value to the socity!**
+- 🎯 My goal is **to build applications with AI that bring value to society!**
 
 - 📫 How to reach me **dangcongkhai2k5@gmail.com**
 
 - 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
-- ⚡ Fun fact:  **I'm not only passionate about Data Science but also Software Engineering and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
+- ⚡ Fun fact:  **I'm passionate about Data Science, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
