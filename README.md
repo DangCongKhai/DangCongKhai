@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khai!</h1>
-<h3 align="center">I'm majoring in Data Science with great passion for learning new things every day!</h3>
+<h3 align="center">I'm majoring in Data Science with a great passion for learning new things every day and applying them to solve real world problems !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangcongkhai&label=Profile%20views&color=0e75b6&style=flat" alt="dangcongkhai" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
-- ⚡ Fun fact:  **I'm passionate about Data Science, AI and Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
+- ⚡ Fun fact:  **I'm passionate about Data Science, AI, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
