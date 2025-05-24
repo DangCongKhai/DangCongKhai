@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangcongkhai" alt="dangcongkhai" /></a> </p> -->
 
-- 🔭 I’m currently competing in [Wids Datathon](https://www.kaggle.com/competitions/widsdatathon2025)
+- 🔭 I’m currently competing in [Wids Datathon](https://www.kaggle.com/competitions/widsdatathon2025) [Update: My team(VNUK_DataTeam) landed on top 19 in this competition!]
 
-- 🌱 I’m currently learning **Sequence Model in Deep Learning, Full-stack Web Development**
+- 🌱 I’m currently learning **Full-stack Web Development** and working on **Finance Project using RAG**
 
 - 👨‍💻 All of my projects are available at [here](https://dangcongkhai.github.io/my_website/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
-- ⚡ Fun fact:  **I'm passionate about Data Science, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
+- ⚡ Fun fact:  **I'm passionate about Data Science, AI and Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
