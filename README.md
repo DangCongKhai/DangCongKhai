@@ -19,11 +19,14 @@
 
 - ⚡ Fun fact:  **I'm passionate about Data Science, AI, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
+- 📒 My blogs are available at [here](https://substack.com/@cokaiday?utm_source=explore_sidebar)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/dangcongkhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dang cong khai" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dangcongkhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dangcongkhai" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
