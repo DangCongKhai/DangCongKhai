@@ -26,10 +26,10 @@
 <a href="https://leetcode.com/u/dangcongkhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dangcongkhai" height="30" width="40" /></a>
 </p>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<!-- Icons Flex Row -->
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -48,11 +48,13 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dangcongkhai&show_icons=true&locale=en&layout=compact" alt="dangcongkhai" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dangcongkhai&show_icons=true&locale=en" alt="dangcongkhai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangcongkhai&" alt="dangcongkhai" /></p>
+<!-- Stats Row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dangcongkhai&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangcongkhai&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangcongkhai&" alt="streak" />
+</p>
