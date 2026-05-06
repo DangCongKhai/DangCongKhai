@@ -5,17 +5,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangcongkhai" alt="dangcongkhai" /></a> </p> -->
 
-- 🔭 I’m currently competing in [Wids Datathon](https://www.kaggle.com/competitions/widsdatathon2025) [Update: My team(VNUK_DataTeam) landed on top 19 in this competition!]
+- 🔭 I’m currently working on my fMRI Image Reconstruction Research
 
-- 🌱 I’m currently learning **Full-stack Web Development** and working on **Finance Project using RAG**
+- 🌱 I’m currently learning **Reinforcement Learning** to challenge myself in [ARC-AGI-3 challenge](https://arcprize.org/arc-agi/3)
 
-- 👨‍💻 All of my projects are available at [here](https://dangcongkhai.github.io/my_website/)
+- 👨‍💻 My portfolios are available at [here](https://dangcongkhai.github.io/my_website/)
 
 - 🎯 My goal is **to build applications with AI that bring value to society!**
 
 - 📫 How to reach me **dangcongkhai2k5@gmail.com**
-
-- 📄 Know about my experiences [here](https://dangcongkhai.github.io/my_website/)
 
 - ⚡ Fun fact:  **I'm passionate about Data Science, AI, Software Engineering, and different technology paths. Besides, I love exercising to maintain good physical and mental health ⚽️!**
 
