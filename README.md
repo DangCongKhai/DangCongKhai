@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangcongkhai" alt="dangcongkhai" /></a> </p> -->
 
-- 🔭 I’m currently working on my fMRI Image Reconstruction Research
+- 🔭 I’m currently working on my **Text2Brain** problem for my Graduation Project
 
 - 🌱 I’m currently learning **Reinforcement Learning** to challenge myself in [ARC-AGI-3 challenge](https://arcprize.org/arc-agi/3)
 
