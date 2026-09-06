@@ -19,6 +19,8 @@
 
 - 📒 My blogs are available at [here](https://substack.com/@cokaiday?utm_source=explore_sidebar)
 
+- 📹 My videos about DSA(Data Structure and Algorithm) in English are available at [here](https://www.youtube.com/watch?v=tN8t_mbv1i0&list=PLODH5M0n-mgM)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
